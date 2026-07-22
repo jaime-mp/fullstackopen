@@ -1,0 +1,27 @@
+{
+  "name": "fullstackopen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier . --write",
+    "format:check": "prettier . --check"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaime-mp/fullstackopen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jaime-mp/fullstackopen/issues"
+  },
+  "homepage": "https://github.com/jaime-mp/fullstackopen#readme",
+  "devDependencies": {
+    "prettier": "3.9.6"
+  },
+  "private": true
+}
